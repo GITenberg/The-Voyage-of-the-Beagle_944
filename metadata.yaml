@@ -1,0 +1,44 @@
+_repo: The-Voyage-of-the-Beagle_944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: <p>Charles Darwin's theory of evolution and natural selection has been
+  debated and disparaged over time, but there is no dispute that he is responsible
+  for some of the most remarkable and groundbreaking scientific findings in history.
+  His five-year trip as a naturalist on the H.M.S. <i>Beagle</i>took him on a journey
+  to such exotic locales as Chile, Argentina, and the Galapagos Islands. Darwin wrote
+  the details of this expedition, including his thoughts about the people on the ship
+  and of course, his observations of the flora and fauna, in his journal, published
+  as <i>Voyage of the Beagle.</i> It is here that his original interpretations of
+  the Galapagos ecosystem and the impact of nature and selection are first revealed.<br><br>This
+  edition of the classic travel memoir is enhanced with an introduction by bestselling
+  nature writer David Quammen, and is part of National Geographic's major cross-platform
+  event in spring 2009 to celebrate the anniversary.
+gutenberg_bookshelf:
+- Travel
+- Harvard Classics
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcsh 'Geology'
+- !lcsh 'Voyages around the world -- History -- 19th century'
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcc 'QH'
+- !lcsh 'South America -- Discovery and exploration'
+- GITenberg
+title: The Voyage of the Beagle
+url: http://www.gutenberg.org/ebooks/944
