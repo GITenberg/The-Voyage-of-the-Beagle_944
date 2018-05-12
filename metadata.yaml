@@ -1,5 +1,8 @@
 _repo: The-Voyage-of-the-Beagle_944
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -21,6 +24,8 @@ description: <p>Charles Darwin's theory of evolution and natural selection has b
   edition of the classic travel memoir is enhanced with an introduction by bestselling
   nature writer David Quammen, and is part of National Geographic's major cross-platform
   event in spring 2009 to celebrate the anniversary.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/944#The-Voyage-of-the-Beagle
 gutenberg_bookshelf:
 - Travel
 - Harvard Classics
